@@ -1,6 +1,7 @@
 # **D&D console game**
 ## Table of Contents
 **[Goal of project](#goal-of-project)**
+
 **[Git Workflow](#git-workflow)**
 
 ## **Goal of project**
